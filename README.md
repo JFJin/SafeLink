@@ -1,2 +1,2 @@
 # SafeLink
-Chrome Extension by JFJin
+Chrome Extension by JFJin (WIP)
