@@ -86,6 +86,7 @@ function highlight(tag) {
         //var s = h.substring(0, index) + '<span style="background-color: aquamarine;">' + h.substring(index, index+text.length) + '</span>' + h.substring(index+text.length);
         var s2 = '<span style="background-color: aquamarine;">' + h + '</span>'
         tag.innerHTML = s2;
+        tag.backgroundColor = "aqua";
         //console.log(text.trim());
     }
 
