@@ -11,7 +11,7 @@ app = Flask(__name__)
 cors = CORS(app)
 app.config['CORS_HEADER'] = "Content-Type"
 
-@app.route('/data', methods=["POST"])
+@app.route('/', methods=["POST"])
 def example():
     msg = request.form['message'].split(',')
     links = msg[1:-1]
@@ -164,7 +164,7 @@ def length(link):
     else:
         return 5
 
-if __name__ = '__main__':
+if __name__ == '__main__':
     app.run()
 
 #app.run(host="127.0.0.1")
