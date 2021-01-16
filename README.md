@@ -13,7 +13,7 @@ Flags potentially unsafe links and highlights them. Very early build so AI sucks
 Screenshots:
 
 
-###Future Implementations:
+Future Implementations:
 1. Better AI
 2. More accurate rating system
 
