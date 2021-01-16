@@ -11,18 +11,18 @@ python main.py runserver 127.0.0.1:5000
 Flags potentially unsafe links and highlights them. Very early build so AI sucks currently.
 
 #### Screenshots:
-
+!["Picture"](Screenshot (135).png)
 
 #### Future Implementations:
 1. Better AI
 2. More accurate rating system
 
 ##### TechStacks:
-Heroku
-Flask
-Html
-Java
-Python
-SKlearn lib
-Gunicorn Lib
-json
+- Heroku
+- Flask
+- Html
+- Java
+- Python
+- SKlearn lib
+- Gunicorn Lib
+- json
