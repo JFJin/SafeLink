@@ -11,7 +11,7 @@ python main.py runserver 127.0.0.1:5000
 Flags potentially unsafe links and highlights them. Very early build so AI sucks currently.
 
 #### Screenshots:
-!["Picture"](Screenshot(135).png)
+!["Picture"](SLSC.png)
 
 #### Future Implementations:
 1. Better AI
